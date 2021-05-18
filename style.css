@@ -416,12 +416,12 @@ img {
     border-radius: 50%;
     border: 1px dashed #fff;
     line-height: 70px;
-	transition: all;
+    transition: .7s;
 }
 .box:hover i {
     background: #fff;
     border: 1px dashed #000;
-	transition: .7s;
+	
 }
 .box h4 {
 	font-size: 19px;
