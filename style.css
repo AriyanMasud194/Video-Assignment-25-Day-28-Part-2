@@ -408,8 +408,20 @@ img {
     color: #000;
 }
 .box i {
-	font-size: 40px;
-	margin-bottom: 20px;
+    font-size: 31px;
+    margin-bottom: 20px;
+    width: 70px;
+    background: #6e5cfc;
+    height: 70px;
+    border-radius: 50%;
+    border: 1px dashed #fff;
+    line-height: 70px;
+	transition: all;
+}
+.box:hover i {
+    background: #fff;
+    border: 1px dashed #000;
+	transition: .7s;
 }
 .box h4 {
 	font-size: 19px;
