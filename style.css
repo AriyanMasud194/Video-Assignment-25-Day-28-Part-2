@@ -416,7 +416,7 @@ img {
     border-radius: 50%;
     border: 1px dashed #fff;
     line-height: 70px;
-    transition: .7s;
+    transition: .4s;
 }
 .box:hover i {
     background: #fff;
